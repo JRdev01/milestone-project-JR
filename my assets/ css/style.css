@@ -2,9 +2,14 @@ header{
     background-color: darkblue;
     height: 80px;
 }
-
+section{
+    background-color: blue;
+}
 body{
     font-family: serif;
+}
+h1{
+    color: red;
 }
 
 
@@ -35,4 +40,9 @@ body{
     color:red;
     font-weight: 800;
 
+}
+
+.about-column{
+    float: left;
+    width: 33%;
 }
