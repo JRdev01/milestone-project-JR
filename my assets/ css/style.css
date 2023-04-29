@@ -1,0 +1,38 @@
+header{
+    background-color: darkblue;
+    height: 80px;
+}
+
+body{
+    font-family: serif;
+}
+
+
+#logo{
+    font-family:  sans-serif;
+    float: left;
+    color: red;
+    
+    
+}
+#navmenu{
+    list-style-type: none;
+    float: right;
+    
+    
+    
+}
+#navmenu li{
+    float: right;
+    letter-spacing: 3px;
+    margin-right: 25px;
+    
+    
+}
+#navmenu li a{
+    display: block;
+    text-decoration: none;
+    color:red;
+    font-weight: 800;
+
+}
