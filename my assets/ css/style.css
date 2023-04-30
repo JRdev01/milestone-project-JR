@@ -2,11 +2,10 @@ header{
     background-color: darkblue;
     height: 80px;
 }
-section{
-    background-color: blue;
-}
+
 body{
     font-family: serif;
+   
 }
 h1{
     color: red;
@@ -42,7 +41,11 @@ h1{
 
 }
 
+
 .about-column{
     float: left;
     width: 33%;
+}
+h1{
+    color: red;
 }
