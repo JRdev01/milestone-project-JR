@@ -1,0 +1,96 @@
+header{
+    background-color: darkblue;
+    height: 80px;
+}
+
+body{
+    font-family: serif;
+    background-color: beige;
+
+   
+}
+h1{
+    color: red;
+}
+
+
+#logo{
+    font-family:  sans-serif;
+    float: left;
+    color: red;
+    
+    
+}
+#navmenu{
+    list-style-type: none;
+    float: right;
+    
+    
+    
+}
+#navmenu li{
+    float: right;
+    letter-spacing: 3px;
+    margin-right: 25px;
+    
+    
+}
+#navmenu li a{
+    display: block;
+    text-decoration: none;
+    color:red;
+    font-weight: 800;
+
+}
+#hero{
+    width: 100%;
+    height: 800px;
+    background-image: url("/images/locksmith1.jpg");
+    background-repeat: no-repeat;
+}
+
+
+.about-column{
+    float: left;
+    width: 33%;
+    height: 150px;
+    background-color: darkblue;
+    color: white;
+}
+.lock-types-row1{
+    float: left;
+    width: 50%;
+    height: 600px;
+}
+.lock-types-row2{
+    float: left;
+    width: 50%;
+    height: 600px;
+}
+.euro-cylinder{
+    background-image: url("/images/euro-cylinder-45-55-double-lock-anti-pick-anti-drill-v-eurd4555.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.mortice{
+    background-image: url("/images/Mortice.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.mls{
+    background-image: url("/images/Multipoint-locking-system.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.nll{
+    background-image: url("/images/Night\ Latch\ Lock.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+h3{
+    color: rebeccapurple;
+}
