@@ -16,6 +16,7 @@ Nav menu must allow user to go to desired destinations.
 Site munst clearly display all information.
 * Supported Screen Browser: Google Chrome 
 * I diploy to git pod using python3 -m http-server
+* In the git hub repository i click on settings and then on the code and automation section i click on pages and then i select a source to deploy
 * Credits
 image sources: https://www.handleking.co.uk/euro-cylinder-45-55-double-lock-anti-pick-anti-drill
 https://www.checkatrade.com/blog/expert-advice/multipoint-locking-system/
