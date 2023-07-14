@@ -28,7 +28,7 @@ As a user visiting the website i would want to be informed about the radius in w
 
 ![Wireframe](wireframe.png)
 
-* Code Validation
+* Code Validation:
 * Test Cases:
 Nav menu must allow user to go to desired destinations.
 Site munst clearly display all information.
