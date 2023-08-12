@@ -66,15 +66,28 @@
 ### Testing User Stories Of UX Section
 1. As a user visiting the website i would like to be able to easily contact the company to make bookings.
 
+* The user can esaily contact the company and make bookings by clicking on the contact page in the navigation bar and contacting the company by using the phone number or email address provided on the page
+
 2. As a user visiting the website i would like to contact the company to make enquiries.
+
+* The user can esaily contact the company and make enquiries by clicking on the contact page in the navigation bar and contacting the company by using the phone number or email address provided on the page
 
 3. As a user visiting the website i would like to be informed on pricing.
 
-4. As a user visiting the website i would want to expereince a website that is easy to navigate
+* The user is able to be informed on prices by clicking the prices page in the navigation bar
+
+4. As a user visiting the website i would want to expereince a website that is easy to navigate.
+
+* The navigation bar allows for easy navigation as each button rediects the user to the desired page without error.
+* The Logo " LondonLocksmiths " allows the user to be redirected back to the landing page thus aiding the ease of navigation.
 
 5. As a user visiting the website i would want to only encounter information on the website that is revelant to me as a customer.
 
+* information such as prices, contact information, available services , opening hours and radius are all information that are relevant to the customer and are all present on the website and easy to access.
+
 6. As a user visiting the website i would want to be informed about the radius in which the business operates.
+
+* The radius in which the buisness operates is stated in the "about us" section on the homepage
 
 
 ## Depolyment 
