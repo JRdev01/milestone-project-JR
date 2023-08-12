@@ -59,14 +59,8 @@
 
 * Previously the logo wasn't redirecting the user to the home page but i relaised the href was wrong so i made the change.
 
-Before
-<a href="home.html">
-            <h3 id="logo">LondonLocksmiths</h3>
-        </a>
-After
-<a href="index.html">
-            <h3 id="logo">LondonLocksmiths</h3>
-        </a>        
+![code before](logobugbefore.png)
+![code before](logobugbeafter.png)
 
 ### Code Validation:
 ### Testing User Stories Of UX Section
