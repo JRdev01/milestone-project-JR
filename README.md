@@ -63,6 +63,10 @@
 ![logo after](logobugbeafter.png)
 
 ### Code Validation:
+
+![validation proof](checked.png)
+
+
 ### Testing User Stories Of UX Section
 1. As a user visiting the website i would like to be able to easily contact the company to make bookings.
 
