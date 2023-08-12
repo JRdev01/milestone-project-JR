@@ -1,42 +1,86 @@
-# milestone-project-JR
+# LondonLocksmiths 
 
- * The purpose of this project is to create a website that allows the user to make bookings and enquiries for a locksmith buisness.
-* The features include a navigation menu, images,paragraphs, and a homepage, prices page and contact page.
-* User Stories:
+## UX
+### Project Goals
 
-As a user visiting the site i would like to be able to easily contact the company to make bookings.
+* The purpose of this project is to create a website that allows the user to make bookings and enquiries for a locksmith buisness.
 
-As a user visiting the site i would like to contact the company to make enquiries.
+### User Stories:
 
-As a user visiting the site i would like to be informed on pricing.
+* As a user visiting the website i would like to be able to easily contact the company to make bookings.
 
-As a user visiting the website i would want to expereince a website that is easy to navigate
+* As a user visiting the website i would like to contact the company to make enquiries.
 
-As a user visiting the website i would want to only enoounter information on the website that is revelant to me as a customer.
+* As a user visiting the website i would like to be informed on pricing.
 
-As a user visiting the website i would want to be informed about the radius in which the business operates.
+* As a user visiting the website i would want to expereince a website that is easy to navigate
 
-* Design Choices
+* As a user visiting the website i would want to only encounter information on the website that is revelant to me as a customer.
 
- Typography is Serif 
+* As a user visiting the website i would want to be informed about the radius in which the business operates.
 
- Heading Color: Red 
+### Design Choices
 
- Text Color: Black,White
+ * Font-family: Serif 
 
- Backgrounds:blanchedalmond, Blue
+ * Heading Color: Red 
+
+ * Text Color: Black,White
+
+ * Backgrounds:blanchedalmond, Blue
+
+
+## Wireframe
 
 ![Wireframe](wireframe.png)
 
+## Features 
+
+* A navigation menu that allows for easy and efficent navigation of the site.
+* Clear images that aid communication.
+* Well structured paragraphs that inform the user of all relevant information.
+* A homepage giving the user a general overveiw of the company and its services 
+* A page consisting of all relevant information as it pertains to pricing.
+* A page allowing the user to contact the company to make bookings and enquireies. 
+
+
+
+
+
+
+
+
+
+## Testing
+
 * Code Validation:
-* Test Cases:
-Nav menu must allow user to go to desired destinations.
-Site munst clearly display all information.
-* Supported Screen Browser: Google Chrome 
-* I diploy to git pod using python3 -m http-server
-* In the git hub repository i click on settings and then on the code and automation section i then click on pages and then i select a source to deploy
-* Credits
-image sources: https://www.handleking.co.uk/euro-cylinder-45-55-double-lock-anti-pick-anti-drill
+### Testing User Stories Of UX Section
+1. As a user visiting the website i would like to be able to easily contact the company to make bookings.
+
+2. As a user visiting the website i would like to contact the company to make enquiries.
+
+3. As a user visiting the website i would like to be informed on pricing.
+
+4. As a user visiting the website i would want to expereince a website that is easy to navigate
+
+5. As a user visiting the website i would want to only encounter information on the website that is revelant to me as a customer.
+
+6. As a user visiting the website i would want to be informed about the radius in which the business operates.
+
+
+## Depolyment 
+
+* login into Github
+* Select repository titled " milstone-project-JR "
+* Click on settings.
+* Go to the code and automation section.
+* Click on pages.
+* Go to source and click " deploy from a branch " and deploy
+
+
+## Credits
+### Images
+https://www.handleking.co.uk/euro-cylinder-45-55-double-lock-anti-pick-anti-drill
 https://www.checkatrade.com/blog/expert-advice/multipoint-locking-system/
 https://jcphardware.co.uk/era-3-lever-mortice-door-lock-deadlock/
 https://www.handleking.co.uk/review/product/list/id/395/
