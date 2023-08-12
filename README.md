@@ -59,8 +59,8 @@
 
 * Previously the logo wasn't redirecting the user to the home page but i relaised the href was wrong so i made the change.
 
-![code before](logobugbefore.png)
-![code before](logobugbeafter.png)
+![logo before](logobugbefore.png)
+![logo after](logobugbeafter.png)
 
 ### Code Validation:
 ### Testing User Stories Of UX Section
